@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hey there
 
+- I love sinking my teeth into a complex tasks
+- Graduated from the University of Victoria
+  - Focused on graphics and animation
+- You can reach me at chs.sheard@gmail.com
+
+## Languages
+
+| C# |<!-- C++ | Python3 | JS | -->
+| ![CSharp logo!](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg) |
 <!--
 **chocolatchips/chocolatchips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
