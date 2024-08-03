@@ -6,6 +6,7 @@
 - Graduated from the University of Victoria
   - Focused on graphics and animation
 - You can reach me at chs.sheard@gmail.com
+- LinkedIn: www.linkedin.com/in/chris-sheard-5828a7226
 
 ## Languages
 
